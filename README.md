@@ -19,3 +19,9 @@ A graphical application that uses matplotlib and tkinter to demonstrate the work
    number of clipping polygon vertexes
    pairs of (x, y) coordinates of the vertexes
    ```
+
+# Packages
+```
+pip install matplotlib
+pip install numpy
+```
